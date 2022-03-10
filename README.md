@@ -3,3 +3,9 @@ Este projeto somente tem o intuido de mostrar um ciclo simples de um dia a dia d
 
 # Kanban
 Em projetos, tem foi implantado um conceito simples de Kanban para demonstrar uma rotina de desenvolvimento documentado e ordenado. (embora eu particularmente ache menos eficiente).
+
+# Issues 
+* Foram criadas algumas Issues (abertas e fechadas) somente para simular um processo de abertura e acompanhamento de trabalhos.
+
+# Projects 
+* Foi criado uma estrutua de Kanban para simular um andamento de projeto (embora somente com meu usuario)
